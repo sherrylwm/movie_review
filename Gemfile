@@ -45,5 +45,6 @@ group :development, :test do
   gem 'devise', '~> 3.5.1'
   gem 'paperclip', '~> 4.3.0'
   gem 'bootstrap-sass', '~> 3.3.5.1'
+  gem 'searchkick', '~> 0.9.0'
 end
 
